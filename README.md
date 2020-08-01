@@ -1,13 +1,15 @@
 <h1>Hi 👋🏼, My name is Jan - @janetschel</h1>
 <h3>A passionate computer science student based in 📍 Germany</h3>
 
-- 🤔 Interested? Visit my [website](http://www.janetschel.de/) for more details
 
 - 👯 I’m looking to collaborate with.. **you**! Hit me up if you have any idea for projects
 
+- ⚡ Fun fact **I actually find coffee pretty disgusting**.. I run on love ❤️
+
+- 🤔 Interested? Visit my [website](http://www.janetschel.de/) for more details
+
 - 📫 Visit me on [XING](https://www.xing.com/profile/Jan_Etschel/cv)
 
-- ⚡ Fun fact **I actually find coffee pretty disgusting**.. I run on love ❤️
 
 ### Some frameworks and languages I am proficient in
 
