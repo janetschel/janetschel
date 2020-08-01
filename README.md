@@ -1,4 +1,4 @@
-<h1>Hi 👋🏼, My name is Jan - @janetschel</h1>
+<h1>Hi 👋🏼, my name is Jan - @janetschel</h1>
 <h3>A passionate computer science student based in 📍 Germany</h3>
 
 
@@ -17,5 +17,5 @@
 </p>
 
 
-✨ Thank you ✨ for reading everything on here  
+✨ Thank you ✨ for reading through my `README.md`  
 If you want to read more things I wrote, visit my [blog](http://www.janetschel.de/) 📚 (WIP)
