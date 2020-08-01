@@ -3,7 +3,7 @@
 
 - 🤔 Interested? Visit my [website](http://www.janetschel.de/) for more details
 
-- 👨🏼‍💻 I'm *(kinda, a little bit)* freelancing on [Fiverr](https://www.fiverr.com/s2/d5337b87ec)
+- 👯 I’m looking to collaborate with.. **you**! Hit me up if you have any idea for projects
 
 - 📫 Visit me on [XING](https://www.xing.com/profile/Jan_Etschel/cv)
 
