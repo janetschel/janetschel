@@ -18,4 +18,4 @@
 
 
 ✨ Thank you ✨ for reading everything on here  
-If you want to read more things I wrote, visit my [blog](http://www.janetschel.de/) (WIP)
+If you want to read more things I wrote, visit my [blog](http://www.janetschel.de/) (WIP) 📖
