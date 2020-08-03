@@ -6,7 +6,9 @@
 
 - ⚡ Fun fact **I actually find coffee pretty disgusting**.. I run on love ❤️
 
-- 🤔 Interested? Visit my [website](http://www.janetschel.de/) for more details
+- 🤔 Interested? Visit my [website](https://janetschel.com/) for more details
+
+- 📚 I also have a Blog.. read more on [here](https://janetschel.com/#/blog) for more details
 
 - 📫 Visit me on [XING](https://www.xing.com/profile/Jan_Etschel/cv)
 
@@ -18,4 +20,4 @@
 
 
 ✨ Thank you ✨ for reading through my `README.md`  
-If you want to read more things I wrote, visit my [blog](http://www.janetschel.de/) 📚 (WIP)
+If you want to read more things I wrote, visit my [blog](https://janetschel.com/#/blog) 📚 (WIP)
