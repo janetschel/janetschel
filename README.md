@@ -8,7 +8,7 @@
 
 - 🤔 Interested? Visit my [website](https://janetschel.com/) for more details
 
-- 📚 I also have a Blog.. read more on [here](https://janetschel.com/#/blog) for more details
+- 📚 I also have a Blog.. read more on [here](https://janetschel.com/#/blog) if you want to
 
 - 📫 Visit me on [XING](https://www.xing.com/profile/Jan_Etschel/cv)
 
