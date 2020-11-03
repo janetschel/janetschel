@@ -4,8 +4,6 @@
 
 - 👯 I’m looking to collaborate with.. **you**! Hit me up if you have any idea for projects
 
-- ⚡ Fun fact **I actually find coffee pretty disgusting**..
-
 - 🤔 Interested? Visit my [website](https://janetschel.com/) for more details. 
 
 - 📫 Visit me on [XING](https://www.xing.com/profile/Jan_Etschel/cv)
